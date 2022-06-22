@@ -15,9 +15,9 @@ Analysis scripts of whole-cell patch-clamp recordings.
 * Injecting a short pulse investigate the cell's response
 
 **Circular statistics:**
-•	The counts in the polar histograms represents the square root of the number of counts. This way the area represents the number of counts.
-•	To calculate the mean of means (taking into accounts the vector length of each individual mean vector) the function mean_of_means() was used
-•	To calculate the angle from rectangular coordinates, different inverse functions (arctan, arccos, arsin) have to be used depending on the quadrant of the circle the angle is expected to be in. 
+*	The counts in the polar histograms represents the square root of the number of counts. This way the area represents the number of counts.
+*	To calculate the mean of means (taking into accounts the vector length of each individual mean vector) the function mean_of_means() was used
+*	To calculate the angle from rectangular coordinates, different inverse functions (arctan, arccos, arsin) have to be used depending on the quadrant of the circle the angle is expected to be in. 
 
 
 **Data manipulation**
