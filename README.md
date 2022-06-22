@@ -2,6 +2,9 @@
 Analysis scripts of whole-cell patch-clamp recordings.
 
 
+The aim of this project was to investigate cell excitability and phase precision and its dependence on proximal cell anatomy, especially the axon initial segment (AIS). Three current clamp recording protocols were used (Cellchar, short pulse, sine wave). Using circular statistics we had a closer look at the phase precision. 
+
+
 **Cellchar**
 * First AP fired within 10ms was analysed
 * Interspike interval was calculated for the first current injection with at least 7 action potentials. Difference between 6th and 7th peak was divided by difference between 1st and 2nd peak
